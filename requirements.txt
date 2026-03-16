@@ -1,0 +1,6 @@
+pymupdf
+moviepy
+edge-tts
+duckduckgo-search
+pillow
+requests
